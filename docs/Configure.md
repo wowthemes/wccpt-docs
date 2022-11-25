@@ -1,7 +1,4 @@
----
-next: /Screenshot.md
-prev: /README.md
----
+
 # Getting Started
 
 Once the plugin is installed and activated then you'll be able to see a menu at the bottom in wp-admin **Wptech Settings**.

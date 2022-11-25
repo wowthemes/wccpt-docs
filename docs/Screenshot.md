@@ -1,6 +1,3 @@
----
-prev: /Configure.md
----
 
 # Screenshots
 

@@ -1,6 +1,4 @@
----
-next: /Configure.md
----
+
 # Installation
 
 ## Using Envato Plugin

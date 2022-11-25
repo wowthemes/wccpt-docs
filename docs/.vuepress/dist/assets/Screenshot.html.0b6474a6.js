@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-61e9020c","path":"/Screenshot.html","title":"Screenshots","lang":"en-US","frontmatter":{"prev":"/Configure.md"},"excerpt":"","headers":[],"git":{"updatedTime":1666985445000,"contributors":[{"name":"wowthemes","email":"shehbaz2009@gmail.com","commits":1}]},"filePathRelative":"Screenshot.md"}');export{e as data};
